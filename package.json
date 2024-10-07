@@ -4,7 +4,8 @@
   "description": "Front-end developer interview questions Anki deck",
   "main": "build.js",
   "scripts": {
-    "build": "yanki ./front-end-trivia"
+    "build": "yanki ./front-end-trivia",
+    "set-styles": "yanki style --css ./styles/style.css"
   },
   "author": "Arun Venkatesan",
   "license": "MIT",

@@ -1,0 +1,11 @@
+.yanki {
+  text-align: left;
+  line-height: 1.33;
+}
+
+code {
+  background-color: rgba(0, 0, 0, 0.05);
+  font-size: 0.8em;
+  padding: 0.2em 0.4em;
+  border-radius: 0.2em;
+}
