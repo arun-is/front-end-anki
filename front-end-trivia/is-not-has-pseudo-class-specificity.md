@@ -1,3 +1,7 @@
+---
+noteId: 1728325254941
+---
+
 How do the `:is()`, `:not()`, and `:has()` pseudo-classes affect specificity in CSS?
 
 ---

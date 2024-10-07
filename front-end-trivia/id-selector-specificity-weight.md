@@ -1,3 +1,7 @@
+---
+noteId: 1728325254888
+---
+
 What is the specificity weight added by an ID selector in CSS?
 
 ---

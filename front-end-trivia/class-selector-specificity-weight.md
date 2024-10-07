@@ -1,3 +1,7 @@
+---
+noteId: 1728325254864
+---
+
 What is the specificity weight added by a class selector in CSS?
 
 ---

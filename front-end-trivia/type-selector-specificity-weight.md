@@ -1,3 +1,7 @@
+---
+noteId: 1728325254967
+---
+
 What is the specificity weight added by a type selector (element selector) in CSS?
 
 ---

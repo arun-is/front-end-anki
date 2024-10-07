@@ -1,3 +1,7 @@
+---
+noteId: 1728325254914
+---
+
 What is the effective specificity weight of inline styles in CSS?
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1728325255018
+---
+
 What is the specificity of the `:where()` pseudo-class in CSS?
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1728325254991
+---
+
 How does the universal selector (*) affect specificity in CSS?
 
 ---

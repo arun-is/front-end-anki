@@ -1,3 +1,7 @@
+---
+noteId: 1728325254821
+---
+
 How does the `!important` flag affect specificity in CSS?
 
 ---
